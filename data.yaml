@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../test/images
+train: /Users/sharayubodkhe/Documents/VSCode/project/Sign_language_data/train/images
+val: /Users/sharayubodkhe/Documents/VSCode/project/Sign_language_data/test/images
 
 nc: 6
-names: ['hello', 'iloveyou', 'no', 'please', 'thanks', 'yes']
+names: ['Hello', 'Iloveyou', 'No', 'Please', 'Thanks', 'Yes']
